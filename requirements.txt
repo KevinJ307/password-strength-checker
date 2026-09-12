@@ -1,0 +1,6 @@
+# Core tool has zero required dependencies (standard library only).
+# requests is only needed for the optional --breach feature.
+requests>=2.28.0
+
+# Development / testing
+pytest>=7.0.0
