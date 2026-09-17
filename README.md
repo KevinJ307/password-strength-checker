@@ -111,13 +111,3 @@ Ideas for taking this further (good for interviews to talk about):
   (dates, leetspeak substitutions, l33t decoding).
 - Estimate real-world crack time under different attacker speeds.
 - Build a small web UI or REST API wrapper.
-
-## Disclaimer
-
-This tool is for educational purposes and personal security assessment. Only
-check passwords you own. It provides an *estimate* of strength and is not a
-substitute for a password manager and unique passwords per site.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
